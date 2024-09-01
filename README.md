@@ -1,6 +1,6 @@
 # Shadcn with NextJS, Tailwind, Yarn on MacOS (2024)
 
-I really love a good toast. And this repo did it for me.
+I really love a good toast. And this repo did it for me. I hope it works for you! The Medium post corresponding to this repo is over [here](https://johnmaeda.medium.com/shadcn-with-nextjs-tailwind-yarn-on-macos-2024-75cb85491e97).
 
 ## Got Node?
 
